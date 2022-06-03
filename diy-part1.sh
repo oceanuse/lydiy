@@ -18,9 +18,9 @@
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 
 # Add a feed source
-git clone https://github.com//kenzok8/openwrt-packages.git  package/openwrt-package
-git clone https://github.com/kenzok8/small-package.git  package/openwrt-small
-git clone https://github.com/fangli/openwrt-vm-tools package/open-vm-tools
+# git clone https://github.com//kenzok8/openwrt-packages.git  package/openwrt-package
+# git clone https://github.com/kenzok8/small-package.git  package/openwrt-small
+# git clone https://github.com/fangli/openwrt-vm-tools package/open-vm-tools
 # git clone https://github.com/linkease/istore.git  package/istore
 # git clone https://github.com/linkease/istore-ui.git package/istore-ui
 # 主题
